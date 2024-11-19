@@ -1,2 +1,57 @@
-# rocketseat-ignite-reactjs-dt-money
-Aplicação (DT Money) desenvolvida no Ignite [Trilha ReactJS] da Rocketseat
+<h1 align="center">
+  <img alt="Ignite" src=".github/logo.png" width="200px" />
+</h1>
+
+<h3 align="center">
+  DT Money
+</h3>
+
+<p align="center">Aplicação de controle financeiro utilizando o ReactJS</p>
+
+<p align="center">
+  <a href="#como-executar-o-projeto">Como executar o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#anotações">Anotações</a>
+</p>
+
+<p align="center">Front-end</p>
+
+<p align="center">
+  <img src=".github/frontend.png" width="90%">
+</p>
+
+## Como executar o projeto
+
+### Clonar este repositório
+
+```bash
+git clone https://github.com/eliasmcastro/rocketseat-ignite-reactjs-dt-money.git
+```
+
+### Requisitos
+
+- [Node.js](https://nodejs.org) na versão 16.14.0
+- [Yarn](https://yarnpkg.com) na versão 1.22.5
+
+### Passos para a execução
+
+**1. Executar aplicação**
+
+Instalar as dependências do projeto
+
+```bash
+yarn
+```
+
+Iniciar a aplicação
+
+```bash
+yarn start
+```
+
+A aplicação começará a ser executada em http://localhost:3000
+
+## Anotações
+
+### Criação do projeto
+
+- `yarn create react-app dtmoney --template typescript` cria um projeto react utilizando o [create-react-app](https://create-react-app.dev/)
