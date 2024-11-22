@@ -55,3 +55,9 @@ A aplicação começará a ser executada em http://localhost:3000
 ### Criação do projeto
 
 - `yarn create react-app dtmoney --template typescript` cria um projeto react utilizando o [create-react-app](https://create-react-app.dev/)
+
+### Styled Components
+
+- `yarn add styled-components` para instalar o Styled Components
+- `yarn add @types/styled-components -D` para instalar a definição de tipo da biblioteca styled-components
+- Recomendado utilizar a extensão vscode-styled-components do VSCode para trabalhar com o styled-components 
