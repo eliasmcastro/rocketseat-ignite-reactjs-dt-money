@@ -60,4 +60,14 @@ A aplicação começará a ser executada em http://localhost:3000
 
 - `yarn add styled-components` para instalar o Styled Components
 - `yarn add @types/styled-components -D` para instalar a definição de tipo da biblioteca styled-components
-- Recomendado utilizar a extensão vscode-styled-components do VSCode para trabalhar com o styled-components 
+- Recomendado utilizar a extensão vscode-styled-components do VSCode para trabalhar com o styled-components
+
+### Configurando MirageJS
+
+- O MirageJS é uma biblioteca de simulação de API
+- `yarn add miragejs` para instalar o MirageJS
+
+### Axios
+
+- O Axios é uma biblioteca JavaScript que permite fazer requisições HTTP
+- `yarn add axios` para instalar o Axios
