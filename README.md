@@ -71,3 +71,8 @@ A aplicação começará a ser executada em http://localhost:3000
 
 - O Axios é uma biblioteca JavaScript que permite fazer requisições HTTP
 - `yarn add axios` para instalar o Axios
+
+### React Modal
+
+- `yarn add react-modal` para instalar o React Modal
+- `yarn add @types/react-modal -D` para instalar a definição de tipo da biblioteca react-modal
