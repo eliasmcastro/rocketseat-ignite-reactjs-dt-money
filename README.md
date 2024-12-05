@@ -58,6 +58,7 @@ A aplicação começará a ser executada em http://localhost:3000
 
 ### Styled Components
 
+- O styled-components permite que você escreva estilos CSS dentro de componentes ReactJS, utilizando a sintaxe do JavaScript
 - `yarn add styled-components` para instalar o Styled Components
 - `yarn add @types/styled-components -D` para instalar a definição de tipo da biblioteca styled-components
 - Recomendado utilizar a extensão vscode-styled-components do VSCode para trabalhar com o styled-components
@@ -74,5 +75,11 @@ A aplicação começará a ser executada em http://localhost:3000
 
 ### React Modal
 
+- O React Modal é uma biblioteca de componente para criar modais em ReactJS
 - `yarn add react-modal` para instalar o React Modal
 - `yarn add @types/react-modal -D` para instalar a definição de tipo da biblioteca react-modal
+
+### Polished
+
+- O Polished é uma biblioteca de utilitários JavaScript para facilitar a manipulação de estilos CSS
+- `yarn add polished` para instalar o polished
